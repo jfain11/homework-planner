@@ -4,11 +4,11 @@ Project description
 
 ## Key Features
 
-	Feature #1
+	Add/Remove Courses
 	
-	Feature #2
+	Add/Remove Homework
 
-	Feature #3
+	Locally Store Data
 
 ## Installation
 
