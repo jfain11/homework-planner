@@ -12,7 +12,7 @@ Project description
 
 ## Installation
 
-To use the app, simply clone the repository and run the MusicPlayer.py file. The app requires Python 3.7 or later and the Tkinter library to be installed on your system.
+To use the app, simply clone the repository and run the class.py file. The app requires Python 3.7 or later and the Tkinter library to be installed on your system.
 
 ## Built With
 
