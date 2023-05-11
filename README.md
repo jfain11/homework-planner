@@ -4,9 +4,9 @@ Project description
 
 ## Key Features
 
-	Add/Remove Courses
+	Modify Classes
 	
-	Add/Remove Homework
+	Add/Remove Assignments
 
 	Locally Store Data
 
